@@ -1,4 +1,3 @@
-.github/workflows/prices.yml
 name: Refresh prices
 
 on:
