@@ -1,0 +1,96 @@
+{
+  "fx": {
+    "asOf": "2026-09-18",
+    "source": "yfinance",
+    "usdsgd": 1.2759
+  },
+  "generatedAt": "2026-09-18T17:19:02+00:00",
+  "note": "Each price carries the trading date its source reported. Tickers under 'unavailable' had no dated quote this run \u2014 keep the previous value and mark it stale.",
+  "prices": {
+    "AAPL": {
+      "asOf": "2026-09-18",
+      "currency": "USD",
+      "price": 334.83,
+      "source": "yfinance"
+    },
+    "AMZN": {
+      "asOf": "2026-09-18",
+      "currency": "USD",
+      "price": 253.04,
+      "source": "yfinance"
+    },
+    "AWX": {
+      "asOf": "2026-09-17",
+      "currency": "SGD",
+      "price": 9.07,
+      "source": "yfinance"
+    },
+    "BABA": {
+      "asOf": "2026-09-18",
+      "currency": "USD",
+      "price": 113.43,
+      "source": "yfinance"
+    },
+    "BN4": {
+      "asOf": "2026-09-17",
+      "currency": "SGD",
+      "price": 11.12,
+      "source": "yfinance"
+    },
+    "C6L": {
+      "asOf": "2026-09-17",
+      "currency": "SGD",
+      "price": 6.51,
+      "source": "yfinance"
+    },
+    "D05": {
+      "asOf": "2026-09-17",
+      "currency": "SGD",
+      "price": 76.94,
+      "source": "yfinance"
+    },
+    "GOOG": {
+      "asOf": "2026-09-18",
+      "currency": "USD",
+      "price": 345.47,
+      "source": "yfinance"
+    },
+    "NVDA": {
+      "asOf": "2026-09-18",
+      "currency": "USD",
+      "price": 220.135,
+      "source": "yfinance"
+    },
+    "O39": {
+      "asOf": "2026-09-17",
+      "currency": "SGD",
+      "price": 31.28,
+      "source": "yfinance"
+    },
+    "SGOL": {
+      "asOf": "2026-09-18",
+      "currency": "USD",
+      "price": 41.765,
+      "source": "yfinance"
+    },
+    "VOO": {
+      "asOf": "2026-09-18",
+      "currency": "USD",
+      "price": 699.805,
+      "source": "yfinance"
+    },
+    "VTI": {
+      "asOf": "2026-09-18",
+      "currency": "USD",
+      "price": 374.4,
+      "source": "yfinance"
+    },
+    "Z74": {
+      "asOf": "2026-09-17",
+      "currency": "SGD",
+      "price": 4.42,
+      "source": "yfinance"
+    }
+  },
+  "unavailable": []
+}
