@@ -2,9 +2,9 @@
   "fx": {
     "asOf": "2026-09-25",
     "source": "yfinance",
-    "usdsgd": 1.2793
+    "usdsgd": 1.2791
   },
-  "generatedAt": "2026-09-25T01:07:40+00:00",
+  "generatedAt": "2026-09-25T01:13:04+00:00",
   "note": "Each price carries the trading date its source reported. Tickers under 'unavailable' had no dated quote this run \u2014 keep the previous value and mark it stale.",
   "prices": {
     "AAPL": {
@@ -20,9 +20,9 @@
       "source": "yfinance"
     },
     "AWX": {
-      "asOf": "2026-09-24",
+      "asOf": "2026-09-25",
       "currency": "SGD",
-      "price": 9.6,
+      "price": 9.65,
       "source": "yfinance"
     },
     "BABA": {
@@ -32,21 +32,27 @@
       "source": "yfinance"
     },
     "BN4": {
-      "asOf": "2026-09-24",
+      "asOf": "2026-09-25",
       "currency": "SGD",
-      "price": 11.29,
+      "price": 11.31,
       "source": "yfinance"
     },
     "C6L": {
-      "asOf": "2026-09-24",
+      "asOf": "2026-09-25",
       "currency": "SGD",
-      "price": 6.64,
+      "price": 6.66,
       "source": "yfinance"
     },
     "D05": {
-      "asOf": "2026-09-24",
+      "asOf": "2026-09-25",
       "currency": "SGD",
-      "price": 77.48,
+      "price": 77.54,
+      "source": "yfinance"
+    },
+    "FULLERTON": {
+      "asOf": "2026-09-24",
+      "currency": "USD",
+      "price": 1.2043,
       "source": "yfinance"
     },
     "GOOG": {
@@ -68,9 +74,9 @@
       "source": "yfinance"
     },
     "O39": {
-      "asOf": "2026-09-24",
+      "asOf": "2026-09-25",
       "currency": "SGD",
-      "price": 31.59,
+      "price": 31.83,
       "source": "yfinance"
     },
     "SGOL": {
@@ -92,13 +98,11 @@
       "source": "yfinance"
     },
     "Z74": {
-      "asOf": "2026-09-24",
+      "asOf": "2026-09-25",
       "currency": "SGD",
       "price": 4.25,
       "source": "yfinance"
     }
   },
-  "unavailable": [
-    "FULLERTON"
-  ]
+  "unavailable": []
 }
