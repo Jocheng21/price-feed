@@ -24,7 +24,7 @@ TICKERS = {
     "SGOL": ("SGOL",    "sgol.us","USD"),
     "BABA": ("BABA",    "baba.us","USD"),
     "AAPL": ("AAPL",    "aapl.us","USD"),
-    "FULLERTON": ("0P0001J04G.SI", None, "USD"),
+    "FULLERTON": ("0P0001J04G",    None, "USD"),
     "LION":      ("0P00019ITU.SI", None, "SGD"),
 }
 FX_SYMBOL = "SGD=X"   # USD -> SGD
