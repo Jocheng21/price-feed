@@ -1,10 +1,10 @@
 {
   "fx": {
-    "asOf": "2026-10-09",
+    "asOf": "2026-10-11",
     "source": "yfinance",
     "usdsgd": 1.2804
   },
-  "generatedAt": "2026-10-09T22:47:02+00:00",
+  "generatedAt": "2026-10-10T22:44:43+00:00",
   "note": "Each price carries the trading date its source reported. Tickers under 'unavailable' had no dated quote this run \u2014 keep the previous value and mark it stale.",
   "prices": {
     "AAPL": {
@@ -50,9 +50,9 @@
       "source": "yfinance"
     },
     "FULLERTON": {
-      "asOf": "2026-10-08",
+      "asOf": "2026-10-09",
       "currency": "USD",
-      "price": 1.2061,
+      "price": 1.2063,
       "source": "yfinance"
     },
     "GOOG": {
@@ -62,9 +62,9 @@
       "source": "yfinance"
     },
     "LION": {
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "currency": "SGD",
-      "price": 1.2662,
+      "price": 1.2651,
       "source": "yfinance"
     },
     "NVDA": {
@@ -91,6 +91,12 @@
       "price": 715.59,
       "source": "yfinance"
     },
+    "VTI": {
+      "asOf": "2026-10-09",
+      "currency": "USD",
+      "price": 381.94,
+      "source": "yfinance"
+    },
     "Z74": {
       "asOf": "2026-10-09",
       "currency": "SGD",
@@ -98,7 +104,5 @@
       "source": "yfinance"
     }
   },
-  "unavailable": [
-    "VTI"
-  ]
+  "unavailable": []
 }
