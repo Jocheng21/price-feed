@@ -2,9 +2,9 @@
   "fx": {
     "asOf": "2026-10-11",
     "source": "yfinance",
-    "usdsgd": 1.2804
+    "usdsgd": 1.2808
   },
-  "generatedAt": "2026-10-10T22:44:43+00:00",
+  "generatedAt": "2026-10-11T22:46:20+00:00",
   "note": "Each price carries the trading date its source reported. Tickers under 'unavailable' had no dated quote this run \u2014 keep the previous value and mark it stale.",
   "prices": {
     "AAPL": {
