@@ -16,6 +16,8 @@ TICKERS = {
     "BN4":  ("BN4.SI",  "bn4.sg", "SGD"),
     "AWX":  ("AWX.SI",  "awx.sg", "SGD"),
     "C6L":  ("C6L.SI",  "c6l.sg", "SGD"),
+    "BS6":  ("BS6.SI",  "bs6.sg", "SGD"),
+    "G3B":  ("G3B.SI",  "g3b.sg", "SGD"),
     "VOO":  ("VOO",     "voo.us", "USD"),
     "VTI":  ("VTI",     "vti.us", "USD"),
     "GOOG": ("GOOG",    "goog.us","USD"),
