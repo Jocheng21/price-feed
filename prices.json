@@ -1,118 +1,118 @@
 {
   "fx": {
-    "asOf": "2026-10-29",
+    "asOf": "2026-10-30",
     "source": "yfinance",
-    "usdsgd": 1.2799
+    "usdsgd": 1.2782
   },
-  "generatedAt": "2026-10-29T01:55:35+00:00",
+  "generatedAt": "2026-10-30T02:06:35+00:00",
   "note": "Each price carries the trading date its source reported. Tickers under 'unavailable' had no dated quote this run \u2014 keep the previous value and mark it stale.",
   "prices": {
     "AAPL": {
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "currency": "USD",
-      "price": 343.83,
+      "price": 348.91,
       "source": "yfinance"
     },
     "AMZN": {
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "currency": "USD",
-      "price": 254.6,
+      "price": 243.79,
       "source": "yfinance"
     },
     "AWX": {
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "currency": "SGD",
-      "price": 8.41,
+      "price": 7.38,
       "source": "yfinance"
     },
     "BABA": {
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "currency": "USD",
-      "price": 100.96,
+      "price": 99.54,
       "source": "yfinance"
     },
     "BN4": {
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "currency": "SGD",
-      "price": 10.35,
+      "price": 10.29,
       "source": "yfinance"
     },
     "BS6": {
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "currency": "SGD",
-      "price": 4.68,
+      "price": 4.54,
       "source": "yfinance"
     },
     "C6L": {
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "currency": "SGD",
-      "price": 6.65,
+      "price": 6.66,
       "source": "yfinance"
     },
     "D05": {
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "currency": "SGD",
-      "price": 74.05,
+      "price": 73.25,
       "source": "yfinance"
     },
     "FULLERTON": {
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "currency": "USD",
-      "price": 1.2087,
+      "price": 1.2088,
       "source": "yfinance"
     },
     "G3B": {
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "currency": "SGD",
-      "price": 5.603,
+      "price": 5.555,
       "source": "yfinance"
     },
     "GOOG": {
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "currency": "USD",
-      "price": 321.89,
+      "price": 282.32,
       "source": "yfinance"
     },
     "LION": {
-      "asOf": "2026-10-27",
+      "asOf": "2026-10-28",
       "currency": "SGD",
-      "price": 1.2656,
+      "price": 1.2643,
       "source": "yfinance"
     },
     "NVDA": {
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "currency": "USD",
-      "price": 215.38,
+      "price": 213.66,
       "source": "yfinance"
     },
     "O39": {
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "currency": "SGD",
-      "price": 29.57,
+      "price": 29.23,
       "source": "yfinance"
     },
     "SGOL": {
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "currency": "USD",
-      "price": 38.78,
+      "price": 38.27,
       "source": "yfinance"
     },
     "VOO": {
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "currency": "USD",
-      "price": 709.9,
+      "price": 707.32,
       "source": "yfinance"
     },
     "VTI": {
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "currency": "USD",
-      "price": 379.17,
+      "price": 378.24,
       "source": "yfinance"
     },
     "Z74": {
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "currency": "SGD",
-      "price": 4.12,
+      "price": 4.14,
       "source": "yfinance"
     }
   },
