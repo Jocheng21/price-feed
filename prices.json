@@ -1,10 +1,10 @@
 {
   "fx": {
-    "asOf": "2026-10-30",
+    "asOf": "2026-10-31",
     "source": "yfinance",
-    "usdsgd": 1.2797
+    "usdsgd": 1.2776
   },
-  "generatedAt": "2026-10-31T01:44:57+00:00",
+  "generatedAt": "2026-11-01T01:22:57+00:00",
   "note": "Each price carries the trading date its source reported. Tickers under 'unavailable' had no dated quote this run \u2014 keep the previous value and mark it stale.",
   "prices": {
     "AAPL": {
@@ -62,9 +62,9 @@
       "source": "yfinance"
     },
     "G3B": {
-      "asOf": "2026-10-29",
+      "asOf": "2026-10-30",
       "currency": "SGD",
-      "price": 5.577,
+      "price": 5.548,
       "source": "yfinance"
     },
     "GOOG": {
